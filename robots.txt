@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bleacian.github.io/sitemap.html.gz
+Sitemap: https://bleacian.github.io/app/sitemap.html.gz
+Sitemap: https://bleacian.github.io/assets/sitemap.html.gz
+Sitemap: https://bleacian.github.io/css/sitemap.html.gz
+Sitemap: https://bleacian.github.io/includes/sitemap.html.gz
+Sitemap: https://bleacian.github.io/item/sitemap.html.gz
+Sitemap: https://bleacian.github.io/src/sitemap.html.gz
